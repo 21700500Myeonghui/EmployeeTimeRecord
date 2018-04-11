@@ -100,7 +100,7 @@ public class TimeRecorder {
 		for(int employeeCount = 0; employeeCount < hours.length; employeeCount++) {
 			System.out.print(weekHours[employeeCount] +"\t");
 		}
-	} 
+	}  
 	
 	private String addSpace(int length) {
 		
